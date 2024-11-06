@@ -9,4 +9,5 @@
 ### Technology stack 💻
 
 • Programming languages: Python, Java, JavaScript, Swift UI, C++ (Arduino)
+
 • Devices: Raspberry Pi, Arduino, ESP32
