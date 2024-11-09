@@ -1,16 +1,13 @@
-## Hi there 👋
+Hello! I am NexaSage 👋
 
-<!--
-**NexaSag3/NexaSag3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• I am engaged in projects on artificial intelligence and machine learning.
 
-Here are some ideas to get you started:
+A little bit about me 🪪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• My journey started with small projects in Python and Arduino, and now I am developing in creating systems using AI. I actively study new technologies and share my knowledge with the community.
+
+Technology stack 💻
+
+• Programming languages: Python, Java, JavaScript, Swift UI, C++ (Arduino)
+
+• Devices: Raspberry Pi, Arduino, ESP32
